@@ -1,0 +1,7 @@
+Protein,30
+Fruit,20
+Vegetables,15
+Dairy,15
+Carbohydrates,9
+Sugar,6
+Sodium,5

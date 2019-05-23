@@ -1,0 +1,10 @@
+C:\Users\lagui\Desktop\Assign4\Assign4\bin\Debug\Assign4.exe.config
+C:\Users\lagui\Desktop\Assign4\Assign4\bin\Debug\Assign4.exe
+C:\Users\lagui\Desktop\Assign4\Assign4\bin\Debug\Assign4.pdb
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.csprojAssemblyReference.cache
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.Form1.resources
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.Properties.Resources.resources
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.csproj.GenerateResource.cache
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.csproj.CoreCompileInputs.cache
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.exe
+C:\Users\lagui\Desktop\Assign4\Assign4\obj\Debug\Assign4.pdb

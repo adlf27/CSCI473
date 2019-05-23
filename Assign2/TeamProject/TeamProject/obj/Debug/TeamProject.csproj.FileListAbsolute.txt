@@ -1,0 +1,13 @@
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\bin\Debug\2188_a2_input01.txt
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\bin\Debug\2188_a2_input02.txt
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\bin\Debug\2188_a2_input03.txt
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\lagui\OneDrive\Documents\CSCI473\TeamProject\TeamProject\obj\Debug\TeamProject.pdb

@@ -1,0 +1,35 @@
+Jan,Tokyo,350
+Jan,New York,650
+Jan,Berlin,200
+Jan,London,255
+Jan,Moscow,756
+Feb,Tokyo,555
+Feb,New York,430
+Feb,Berlin,300
+Feb,London,655
+Feb,Moscow,856
+Mar,Tokyo,450
+Mar,New York,600
+Mar,Berlin,600
+Mar,London,158
+Mar,Moscow,678
+Apr,Tokyo,455
+Apr,New York,632
+Apr,Berlin,246
+Apr,London,345
+Apr,Moscow,890
+May,Tokyo,503
+May,New York,679
+May,Berlin,299
+May,London,276
+May,Moscow,704
+Jun,Tokyo,406
+Jun,New York,599
+Jun,Berlin,189
+Jun,London,302
+Jun,Moscow,966
+Jul,Tokyo,400
+Jul,New York,660
+Jul,Berlin,204
+Jul,London,277
+Jul,Moscow,976

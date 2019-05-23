@@ -1,0 +1,14 @@
+C:\Users\lagui\Desktop\assign6\assign6\bin\Debug\assign6.exe.config
+C:\Users\lagui\Desktop\assign6\assign6\bin\Debug\assign6.exe
+C:\Users\lagui\Desktop\assign6\assign6\bin\Debug\assign6.pdb
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.csprojAssemblyReference.cache
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.Form1.resources
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.Form2.resources
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.Properties.Resources.resources
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.csproj.GenerateResource.cache
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.csproj.CoreCompileInputs.cache
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.exe
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.pdb
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.Form3.resources
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.Form4.resources
+C:\Users\lagui\Desktop\assign6\assign6\obj\Debug\assign6.Form5.resources

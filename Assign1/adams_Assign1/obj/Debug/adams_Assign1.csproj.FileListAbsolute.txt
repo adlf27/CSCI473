@@ -1,0 +1,9 @@
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\bin\Debug\2188_a1_input01.txt
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\bin\Debug\2188_a1_input02.txt
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\bin\Debug\adams_Assign1.exe.config
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\bin\Debug\adams_Assign1.exe
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\bin\Debug\adams_Assign1.pdb
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\obj\Debug\adams_Assign1.csprojAssemblyReference.cache
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\obj\Debug\adams_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\obj\Debug\adams_Assign1.exe
+C:\Users\lagui\OneDrive\Documents\CSCI473\adams_Assign1\adams_Assign1\obj\Debug\adams_Assign1.pdb

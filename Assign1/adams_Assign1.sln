@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adams_Assign1", "adams_Assign1\adams_Assign1.csproj", "{E0616673-41D4-4C15-B578-562B3B10A374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0616673-41D4-4C15-B578-562B3B10A374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0616673-41D4-4C15-B578-562B3B10A374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0616673-41D4-4C15-B578-562B3B10A374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0616673-41D4-4C15-B578-562B3B10A374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2F5F78-85AF-4BB4-B0A6-11A1BC0064FA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://z1835320.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = adams_Assign1\\adams_Assign1.csproj
+		SccProjectName1 = adams_Assign1
+		SccLocalPath1 = adams_Assign1
+	EndGlobalSection
+EndGlobal
